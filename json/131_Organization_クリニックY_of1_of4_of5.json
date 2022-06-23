@@ -1,0 +1,25 @@
+{
+    "resourceType": "Organization",
+    "text": {
+        "status": "generated",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>1310000002</li><li>クリニックY</li><li>〒100-0006 東京都千代田区有楽町</li><li>03-0000-2222</li></ul></div>"
+    },
+    "identifier": [
+        {
+            "system": "http://hl7.jp/fhir/ePrescription/InsuranceMedicalInstitutionNo",
+            "value": "1310000002"
+        }
+    ],
+    "name": "クリニックY",
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "03-0000-2222"
+        }
+    ],
+    "address": [
+        {
+            "text": "100-0006 東京都千代田区有楽町"
+        }
+    ]
+}

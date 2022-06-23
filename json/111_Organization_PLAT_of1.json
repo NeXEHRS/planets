@@ -1,0 +1,25 @@
+{
+    "resourceType": "Organization",
+    "text": {
+        "status": "generated",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>0000000000</li><li>TIS患者管理用組織</li><li>〒163-0490 東京都新宿区西新宿2-1-1</li><li>03-0000-0000</li></ul></div>"
+    },
+    "identifier": [
+        {
+            "system": "http://hl7.jp/fhir/ePrescription/InsuranceMedicalInstitutionNo",
+            "value": "0000000000"
+        }
+    ],
+    "name": "TIS患者管理用組織",
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "03-0000-0000"
+        }
+    ],
+    "address": [
+        {
+            "text": "163-0490 東京都新宿区西新宿2-1-1"
+        }
+    ]
+}

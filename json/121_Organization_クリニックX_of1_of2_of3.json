@@ -1,0 +1,25 @@
+{
+    "resourceType": "Organization",
+    "text": {
+        "status": "generated",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>1310000001</li><li>クリニックX</li><li>〒100-0003 東京都千代田区一ツ橋一丁目</li><li>03-0000-1111</li></ul></div>"
+    },
+    "identifier": [
+        {
+            "system": "http://hl7.jp/fhir/ePrescription/InsuranceMedicalInstitutionNo",
+            "value": "1310000001"
+        }
+    ],
+    "name": "クリニックX",
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "03-0000-1111"
+        }
+    ],
+    "address": [
+        {
+            "text": "100-0003 東京都千代田区一ツ橋一丁目"
+        }
+    ]
+}
